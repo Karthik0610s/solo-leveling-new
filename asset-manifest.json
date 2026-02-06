@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/solo-leveling-new/static/css/main.f7f42c63.css",
-    "main.js": "/solo-leveling-new/static/js/main.190064b6.js",
+    "main.js": "/solo-leveling-new/static/js/main.ff9acbcb.js",
     "static/js/453.56c14a69.chunk.js": "/solo-leveling-new/static/js/453.56c14a69.chunk.js",
     "static/media/W4.jpg": "/solo-leveling-new/static/media/W4.9343d8da9e2bee532621.jpg",
     "static/media/W6.jpg": "/solo-leveling-new/static/media/W6.5d23c13ef8e19fecaf26.jpg",
@@ -12,11 +12,11 @@
     "static/media/w1.jpg": "/solo-leveling-new/static/media/w1.3bf3585da597a0aaaac5.jpg",
     "index.html": "/solo-leveling-new/index.html",
     "main.f7f42c63.css.map": "/solo-leveling-new/static/css/main.f7f42c63.css.map",
-    "main.190064b6.js.map": "/solo-leveling-new/static/js/main.190064b6.js.map",
+    "main.ff9acbcb.js.map": "/solo-leveling-new/static/js/main.ff9acbcb.js.map",
     "453.56c14a69.chunk.js.map": "/solo-leveling-new/static/js/453.56c14a69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7f42c63.css",
-    "static/js/main.190064b6.js"
+    "static/js/main.ff9acbcb.js"
   ]
 }
