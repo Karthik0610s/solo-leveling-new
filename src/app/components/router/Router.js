@@ -13,9 +13,11 @@ import Progress from "../../../pages/Progress/Progress";
 import Achievements from "../../../pages/Achievements/Achievements"
 import Profile from "../../../pages/Profile/Profile"
 
+
+
 export default function Router() {
   return (
-    <BrowserRouter>
+<BrowserRouter basename="/solo-leveling-new">
       <Routes>
         {/* AUTH ROUTES */}
         <Route element={<AuthLayout />}>
