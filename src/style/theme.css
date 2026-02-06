@@ -1,0 +1,22 @@
+:root {
+  /* BACKGROUNDS */
+  --bg-primary: #0b0f19;
+  --bg-secondary: #020617;
+  --bg-card: rgba(18, 24, 41, 0.85);
+
+  /* ACCENTS */
+  --accent-main: #7c3aed;
+  --accent-secondary: #38bdf8;
+
+  /* TEXT */
+  --text-main: #e5e7eb;
+  --text-muted: #9ca3af;
+
+  /* GLOW */
+  --glow-main: 0 0 20px rgba(124, 58, 237, 0.6);
+
+  /* STATUS COLORS */
+  --success: #22c55e;
+  --warning: #facc15;
+  --danger: #ef4444;
+}
